@@ -1,2 +1,2 @@
-# pandai
-Deep Learning library for Ruby.
+# Pandai
+The Deep Learning Library for Ruby.
